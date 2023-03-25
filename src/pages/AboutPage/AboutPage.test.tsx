@@ -1,6 +1,6 @@
 import React from 'react';
 import * as ReactDOM from 'react-dom';
-import App from './App';
+import AboutPage from './AboutPage';
 
 describe('ArtGalleryPage component tests', () => {
     let container: HTMLDivElement
@@ -8,7 +8,7 @@ describe('ArtGalleryPage component tests', () => {
     beforeEach(() => {
         container = document.createElement('div');
         document.body.appendChild(container);
-        ReactDOM.render(<App />, container);
+        ReactDOM.render(<AboutPage />, container);
     })
 
     afterEach(() => {
@@ -17,6 +17,6 @@ describe('ArtGalleryPage component tests', () => {
     })
 
     it('Renders correctly initial document', () => {
-        expect(App).toBeTruthy();
+        expect(AboutPage).toBeTruthy();
     })
 })
