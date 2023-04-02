@@ -1,0 +1,62 @@
+[    
+    {
+        "artist": "Lionardo Da Vinci",
+        "title": "Mona Lisa",
+        "artType": "Painting",
+        "mainPicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1200px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+        "pictures": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1200px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+            "https://images.ctfassets.net/cnu0m8re1exe/6b2DHR9ONCpoeXI0xac19S/a705fa6397afa47f7704dce541ff1b4e/smile.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_Gnyw1wWUIsBogVggcPZsW5HIMf9ad_m_goX8-m7Y_d8F-nU2WWzJHsDAOtYqHicw2pC1L2FWfo&usqp=CAU&ec=48665701"
+        ]
+    },
+    {
+        "artist": "Vincent Van Gough",
+        "title": "Starry Night",
+        "artType": "Painting",
+        "mainPicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+        "pictures": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+            "https://www.moma.org/d/assets/W1siZiIsIjIwMjAvMTEvMjMvMXFuZWt5emVoYV9TY3JlZW5fU2hvdF8yMDIwXzExXzIzX2F0XzExLjAzLjMyX0FNXzEucG5nIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/Screen%20Shot%202020-11-23%20at%2011.03.32%20AM%201.png?sha=266ad1b3c92337a3",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Van-gogh-starry-night-upper-right.jpg/800px-Van-gogh-starry-night-upper-right.jpg",
+            "https://www.vangoghgallery.com/img/starry_header.jpg"
+        ]
+    },
+    {
+        "artist": "Lionardo Da Vinci",
+        "title": "Vitruvian Man",
+        "artType": "Print",
+        "mainPicture": "https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg",
+        "pictures": [
+            "https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg",
+            "https://artincontext.org/wp-content/uploads/2021/09/The-Vitruvian-Man-da-Vinci-848x530.jpg"
+        ]
+    },
+    {
+        "artist": "Unknown",
+        "title": "Unknown",
+        "artType": "Painting",
+        "mainPicture": "https://img.artpal.com/125541/4-19-12-13-22-43-9m.jpg",
+        "pictures":[
+            "https://img.artpal.com/125541/4-19-12-13-22-43-9m.jpg"
+        ]
+    },
+    {
+        "artist": "La Poo",
+        "title": "The poo",
+        "artType": "Painting",
+        "mainPicture": "https://i.pinimg.com/originals/a9/d5/82/a9d582502a28b04bfb93ba15795396e6.jpg"
+    },
+    {
+        "artist": "Unknown",
+        "title": "The Cat",
+        "artType": "Painting",
+        "mainPicture": "https://d3h6k4kfl8m9p0.cloudfront.net/stories/GL1uAOZYOJ3QErCTAXDL7g.jpeg"
+    },
+    {
+        "artist": "Dr. Seuss",
+        "title": "The Cat in the Hat",
+        "artType": "Print",
+        "mainPicture": "https://clipartix.com/wp-content/uploads/2016/11/Cat-in-the-hat-dr-seuss-clip-art-cliparts.jpg"
+    }
+]
