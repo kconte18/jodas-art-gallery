@@ -1,7 +1,7 @@
 export default function ArtGalleryPage() {
     return (
         <div>
-            <p>This page is working</p>
+            <p>Art Gallery page is working</p>
         </div>
     )
 }
