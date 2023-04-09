@@ -10,8 +10,8 @@ import AboutPage from './pages/AboutPage/AboutPage';
 function App() {
   return (
     <div className="App">
-      <Header />
       <BrowserRouter>
+      <Header />
         <Routes>
           <Route path='/' element={<ArtGalleryPage/>}/>
           <Route path='/contact-me' element={<ContactInfoPage/>}/>
