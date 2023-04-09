@@ -1,13 +1,13 @@
 import * as ReactDOM from 'react-dom';
-import ArtGalleryPage from './ArtGalleryPage';
+import WebsiteTitle from './WebsiteTitle';
 
-describe('ArtGalleryPage component tests', () => {
+describe('WebsiteTitle component tests', () => {
     let container: HTMLDivElement
 
     beforeEach(() => {
         container = document.createElement('div');
         document.body.appendChild(container);
-        ReactDOM.render(<ArtGalleryPage />, container);
+        ReactDOM.render(<WebsiteTitle />, container);
     })
 
     afterEach(() => {
@@ -16,6 +16,6 @@ describe('ArtGalleryPage component tests', () => {
     })
 
     it('Renders correctly initial document', () => {
-        expect(ArtGalleryPage).toBeTruthy();
+        expect(WebsiteTitle).toBeTruthy();
     })
 })
