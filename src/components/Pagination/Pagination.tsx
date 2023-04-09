@@ -1,15 +1,15 @@
+import "./Pagination.css";
+
 export default function Pagination() {
     return (
-        <div>
-            <ul>
-                <li>&lt;&lt;</li>
-                <li>1</li>
-                <li>2</li>
-                <li>3</li>
-                <li>4</li>
-                <li>5</li>
-                <li>&gt;&gt;</li>
-            </ul>
-        </div>
+        <ul className="pagination-container">
+            <li className="pagination-item">&lt;&lt;</li>
+            <li className="pagination-item">1</li>
+            <li className="pagination-item">2</li>
+            <li className="pagination-item">3</li>
+            <li className="pagination-item">4</li>
+            <li className="pagination-item">5</li>
+            <li className="pagination-item">&gt;&gt;</li>
+        </ul>
     );
 }
