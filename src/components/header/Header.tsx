@@ -1,5 +1,5 @@
-import WebsiteTitle from "./website-title/WebsiteTitle";
-import NavBar from "./navbar/NavBar";
+import WebsiteTitle from "./WebsiteTitle/WebsiteTitle";
+import NavBar from "./NavBar/NavBar";
 import "./Header.css";
 
 export default function Header(){

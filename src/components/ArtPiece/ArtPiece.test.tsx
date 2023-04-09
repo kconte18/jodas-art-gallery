@@ -1,14 +1,13 @@
-import React from 'react';
-import * as ReactDOM from 'react-dom';
-import WebsiteTitle from './WebsiteTitle';
+import * as ReactDOM from "react-dom";
+import ArtPiece from "./ArtPiece";
 
-describe('WebsiteTitle component tests', () => {
+describe('Header component tests', () => {
     let container: HTMLDivElement
 
     beforeEach(() => {
         container = document.createElement('div');
         document.body.appendChild(container);
-        ReactDOM.render(<WebsiteTitle />, container);
+        ReactDOM.render(<ArtPiece />, container);
     })
 
     afterEach(() => {
@@ -17,6 +16,6 @@ describe('WebsiteTitle component tests', () => {
     })
 
     it('Renders correctly initial document', () => {
-        expect(WebsiteTitle).toBeTruthy();
+        expect(ArtPiece).toBeTruthy();
     })
 })

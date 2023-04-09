@@ -1,13 +1,13 @@
-import * as ReactDOM from 'react-dom';
-import ArtGalleryPage from './ArtGalleryPage';
+import * as ReactDOM from "react-dom";
+import SearchBar from "./SearchBar";
 
-describe('ArtGalleryPage component tests', () => {
+describe('Header component tests', () => {
     let container: HTMLDivElement
 
     beforeEach(() => {
         container = document.createElement('div');
         document.body.appendChild(container);
-        ReactDOM.render(<ArtGalleryPage />, container);
+        ReactDOM.render(<SearchBar />, container);
     })
 
     afterEach(() => {
@@ -16,6 +16,6 @@ describe('ArtGalleryPage component tests', () => {
     })
 
     it('Renders correctly initial document', () => {
-        expect(ArtGalleryPage).toBeTruthy();
+        expect(SearchBar).toBeTruthy();
     })
 })
