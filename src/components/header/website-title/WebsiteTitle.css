@@ -1,0 +1,14 @@
+.website-title-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.website-title {
+    margin: 0 0 0 20px;
+    align-self: flex-end;
+}
+
+.website-picture {
+    height: 100px;
+}
