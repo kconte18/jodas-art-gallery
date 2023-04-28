@@ -1,4 +1,7 @@
 export enum ArtType {
-    Print = "Print",
-    Painting = "Painting"
+    print = "print",
+    painting = "painting",
+    stamp= "stamp",
+    sculpture= "sculpture",
+    misc= "misc"
 };
