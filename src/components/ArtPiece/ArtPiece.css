@@ -1,3 +1,5 @@
-.art-piece-container {
-    display: flex;
+.main-picture {
+    height: 20rem;
+    padding: 2px;
+    border: 2px solid black;
 }

@@ -1,15 +1,16 @@
 import { ArtType } from "./ArtType";
 
-export class ArtPiece {
+export class ArtPieceModel {
+    id: string;
     artist: string;
-    title: string;
+    title?: string;
     artType: ArtType;
     mainPicture: string;
     pictures?: string[];
 
-    constructor(artist: string, title: string, type: ArtType, mainPicture: string) {
+    constructor(id: string, artist: string, type: ArtType, mainPicture: string) {
+        this.id = id;
         this.artist = artist;
-        this.title = title;
         this.artType = type;
         this.mainPicture = mainPicture;
     }
