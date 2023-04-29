@@ -1,5 +1,7 @@
 .pagination-container {
     display: flex;
+    justify-self: center;
+    padding-left: 0px;
 }
 
 .pagination-item {

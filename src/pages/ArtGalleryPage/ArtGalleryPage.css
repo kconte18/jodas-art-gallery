@@ -1,8 +1,15 @@
-/* .art-gallery-container {
+.art-gallery-container {
     display: grid;
-} */
+    grid-template-columns: auto;
+    justify-content: center;
+}
 
 .art-piece-list {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: min-content min-content;
+    column-gap: 10rem;
+    justify-content: center;
+    row-gap: 4rem;
+    width: fit-content;
+    border: 1px solid black;
 }

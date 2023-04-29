@@ -7,7 +7,6 @@ import "./ArtGalleryPage.css";
 export default function ArtGalleryPage() {
     return (
         <div className="art-gallery-container">
-            <p>Art Gallery page is working</p>
             <SearchBar />
             <div className="art-piece-list">
                 {FakeData.map((artItem: any) => <ArtPiece key={artItem.id} artPiece={artItem} />)}
