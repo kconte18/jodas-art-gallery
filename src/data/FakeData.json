@@ -1,5 +1,6 @@
 [    
     {
+        "id": "1",
         "artist": "Lionardo Da Vinci",
         "title": "Mona Lisa",
         "artType": "Painting",
@@ -11,6 +12,7 @@
         ]
     },
     {
+        "id": "2",
         "artist": "Vincent Van Gough",
         "title": "Starry Night",
         "artType": "Painting",
@@ -23,6 +25,7 @@
         ]
     },
     {
+        "id": "3",
         "artist": "Lionardo Da Vinci",
         "title": "Vitruvian Man",
         "artType": "Print",
@@ -33,6 +36,7 @@
         ]
     },
     {
+        "id": "4",
         "artist": "Unknown",
         "title": "Unknown",
         "artType": "Painting",
@@ -42,18 +46,21 @@
         ]
     },
     {
+        "id": "5",
         "artist": "La Poo",
         "title": "The poo",
         "artType": "Painting",
         "mainPicture": "https://i.pinimg.com/originals/a9/d5/82/a9d582502a28b04bfb93ba15795396e6.jpg"
     },
     {
+        "id": "6",
         "artist": "Unknown",
         "title": "The Cat",
         "artType": "Painting",
         "mainPicture": "https://d3h6k4kfl8m9p0.cloudfront.net/stories/GL1uAOZYOJ3QErCTAXDL7g.jpeg"
     },
     {
+        "id": "7",
         "artist": "Dr. Seuss",
         "title": "The Cat in the Hat",
         "artType": "Print",

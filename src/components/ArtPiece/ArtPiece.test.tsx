@@ -1,5 +1,7 @@
 import * as ReactDOM from "react-dom";
 import ArtPiece from "./ArtPiece";
+import FakeData from "../../data/FakeData.json"
+import { ArtPieceModel } from "../../models/ArtPieceModel";
 
 describe('Header component tests', () => {
     let container: HTMLDivElement
@@ -7,7 +9,8 @@ describe('Header component tests', () => {
     beforeEach(() => {
         container = document.createElement('div');
         document.body.appendChild(container);
-        ReactDOM.render(<ArtPiece />, container);
+        const testArtPiece: any = FakeData[0];
+        ReactDOM.render(<ArtPiece artPiece={testArtPiece}/>, container);
     })
 
     afterEach(() => {
