@@ -1,0 +1,37 @@
+.toggle-dropdown {
+    display: flex;
+    cursor: pointer;
+    border: 1px solid black;
+    align-items: center;
+    padding: 0 1rem 0 1rem;
+    margin: 0 1rem 0 1rem;
+}
+
+.toggle-dropdown:hover {
+    background-color: aliceblue;
+}
+
+.dropdown {
+    position: absolute;
+    width: 10%;
+    overflow: hidden;
+    background-color: white;
+    border-radius: 1rem;
+    border: 5px solid black;
+    list-style-type: none;
+    text-align: left;
+    padding: 1rem;
+}
+
+.selected-item {
+    margin-right: 1rem;
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
+
+.dropdown-item:hover {
+    cursor: pointer;
+    background-color: lightblue;
+}

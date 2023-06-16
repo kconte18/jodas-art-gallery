@@ -2,14 +2,15 @@
     display: grid;
     grid-template-columns: auto;
     justify-content: center;
+    row-gap: 4rem;
 }
 
 .art-piece-list {
     display: grid;
-    grid-template-columns: min-content min-content;
+    grid-template-columns: max-content max-content max-content;
     column-gap: 10rem;
     justify-content: center;
+    justify-items: center;
     row-gap: 4rem;
     width: fit-content;
-    border: 1px solid black;
 }
