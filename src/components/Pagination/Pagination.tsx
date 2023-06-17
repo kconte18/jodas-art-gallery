@@ -1,15 +1,11 @@
 import styles from "./Pagination.module.css";
 
-export default function Pagination() {
+export default function Pagination(props: {handleSetPageNum: any, pageNum: number, maxPageNum: number}) {
     return (
         <ul className={styles["pagination-container"]}>
-            <li className={styles["pagination-item"]}>&lt;&lt;</li>
-            <li className={styles["pagination-item"]}>1</li>
-            <li className={styles["pagination-item"]}>2</li>
-            <li className={styles["pagination-item"]}>3</li>
-            <li className={styles["pagination-item"]}>4</li>
-            <li className={styles["pagination-item"]}>5</li>
-            <li className={styles["pagination-item"]}>&gt;&gt;</li>
+            <li className={styles["pagination-item"]} onClick={props.handleSetPageNum}>&lt;&lt;</li>
+            {[...Array(props.maxPageNum)].map((e, i) => <li className={styles["pagination-item"]} onClick={props.handleSetPageNum} key={i}>{i+=1}</li>)}
+            <li className={styles["pagination-item"]} onClick={props.handleSetPageNum}>&gt;&gt;</li>
         </ul>
     );
 }
