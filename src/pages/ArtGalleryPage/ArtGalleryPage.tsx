@@ -16,9 +16,25 @@ export default function ArtGalleryPage() {
     }
 
     const handleSetPageNum = (event: any) => {
-        console.log("Set Page");
-        console.log(event.target.textContent);
-        console.log(maxPageNum);
+        let varPageNum: number = 0;
+        if(event.target.textContent == pageNum.toString()) {
+            console.log("Same Page");
+            return;
+        }
+        else if(event.target.textContent == ">>") {
+            console.log("Next");
+            varPageNum = 1;
+        }
+        else if(event.target.textContent == "<<") {
+            console.log("Prev");
+            varPageNum = -1;
+        }
+        else {
+            console.log("Page" + event.target.textContent);
+            varPageNum = Number(event.target.textContent);
+        }
+        setPageNum((prevPageNum) => prevPageNum+=varPageNum)
+        console.log(pageNum);
     }
 
     return (
