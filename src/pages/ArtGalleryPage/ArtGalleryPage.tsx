@@ -5,10 +5,10 @@ import SearchBar from "../../components/SearchBar/SearchBar";
 import FakeData from "../../data/FakeData.json";
 import styles from "./ArtGalleryPage.module.css";
 
-const maxPageNum: number = Math.ceil(FakeData.length / 2);
+const maxPageNum: number = Math.ceil(FakeData.length / 1);
 
 export default function ArtGalleryPage() {
-    const [shownArtPieces, setShowArtPieces] = useState(FakeData.slice(0, 2));
+    const [shownArtPieces, setShowArtPieces] = useState(FakeData.slice(0, 1));
     const [pageNum, setPageNum] = useState(1);
 
     const handleSetPageNum = (event: any) => {
@@ -28,7 +28,7 @@ export default function ArtGalleryPage() {
 
     useEffect(() => {
         // Change shown art pieces (shownArtPieces)
-        setShowArtPieces(FakeData.slice((pageNum - 1) * 2, pageNum * 2))
+        setShowArtPieces(FakeData.slice((pageNum - 1) * 1, pageNum * 1))
     }, [pageNum])
 
     return (
