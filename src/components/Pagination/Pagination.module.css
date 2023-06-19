@@ -10,3 +10,19 @@
     border: solid 1px black;
     cursor: pointer;
 }
+
+.pagination-item-active {
+    background-color: aqua;
+    list-style-type: none;
+    padding: 5px;
+    border: solid 1px black;
+    cursor: pointer;
+}
+
+.pagination-item-disabled {
+    list-style-type: none;
+    padding: 5px;
+    border: solid 1px black;
+    opacity: 0.3;
+    cursor:default;
+}
