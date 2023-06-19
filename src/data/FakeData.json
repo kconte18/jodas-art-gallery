@@ -1,7 +1,7 @@
-[    
+[
     {
         "id": "1",
-        "artist": "Lionardo Da Vinci",
+        "artist": "Leonardo Da Vinci",
         "title": "Mona Lisa",
         "artType": "Painting",
         "mainPicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1200px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
@@ -26,7 +26,7 @@
     },
     {
         "id": "3",
-        "artist": "Lionardo Da Vinci",
+        "artist": "Leonardo Da Vinci",
         "title": "Vitruvian Man",
         "artType": "Print",
         "mainPicture": "https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg",
@@ -41,7 +41,7 @@
         "title": "Unknown",
         "artType": "Painting",
         "mainPicture": "https://img.artpal.com/125541/4-19-12-13-22-43-9m.jpg",
-        "pictures":[
+        "pictures": [
             "https://img.artpal.com/125541/4-19-12-13-22-43-9m.jpg"
         ]
     },
@@ -65,5 +65,397 @@
         "title": "The Cat in the Hat",
         "artType": "Print",
         "mainPicture": "https://clipartix.com/wp-content/uploads/2016/11/Cat-in-the-hat-dr-seuss-clip-art-cliparts.jpg"
+    },
+    {
+        "id": "8",
+        "artist": "Unknown",
+        "title": "A tree with guys",
+        "artType": "Painting",
+        "mainPicture": "https://upload.wikimedia.org/wikipedia/commons/7/75/Vincent_van_Gogh_-_Road_with_Cypress_and_Star_-_c._12-15_May_1890.jpg"
+    },
+    {
+        "id": "9",
+        "artist": "Zendaya",
+        "title": "Zendaya",
+        "artType": "Print",
+        "mainPicture": "https://www.befunky.com/images/prismic/8378f663-d028-48f1-87de-fc5f872aa948_hero-photo-to-art-5.jpg?auto=avif,webp&format=jpg&width=896"
+    },
+    {
+        "id": "10",
+        "artist": "Belle",
+        "title": "An E Girl",
+        "artType": "Print",
+        "mainPicture": "https://imgv3.fotor.com/images/share/wonderland-girl-generated-by-Fotor-ai-art-generator.jpg"
+    },
+    {
+        "id": "11",
+        "artist": "La Booca",
+        "title": "Africa",
+        "artType": "Painting",
+        "mainPicture": "https://guardian.ng/wp-content/uploads/2022/12/African-art-scaled.jpeg"
+    },
+    {
+        "id": "12",
+        "artist": "Hippie",
+        "title": "Some Hippie",
+        "artType": "Painting",
+        "mainPicture": "https://img.apmcdn.org/591236a66c9fa0cff0d618a99c71c74d272e635a/uncropped/8cc221-20220310-arthounds03-600.jpg"
+    },
+    {
+        "id": "13",
+        "artist": "Hippie",
+        "title": "Some Dude",
+        "artType": "Painting",
+        "mainPicture": "https://kcai.edu/media/images/Perceptual_-_Nehemiah_Cisneros_Homepage_Header_.original.jpg"
+    },
+    {
+        "id": "14",
+        "artist": "Leonardo Da Vinci",
+        "title": "Last Supper",
+        "artType": "Painting",
+        "mainPicture": "https://images.immediate.co.uk/production/volatile/sites/7/2021/03/GettyImages-550119221-e490377.jpg"
+    },
+    {
+        "id": "15",
+        "artist": "Leonardo Da Vinci",
+        "title": "Salvatore Mundi",
+        "artType": "Painting",
+        "mainPicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg/640px-Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg"
+    },
+    {
+        "id": "16",
+        "artist": "Hippie",
+        "title": "A bear",
+        "artType": "Painting",
+        "mainPicture": "https://www.kentpaulette.com/wp-content/uploads/bear-painting-abstract-animal-art-kent-paulette.jpg"
+    },
+    {
+        "id": "17",
+        "artist": "La Booca",
+        "title": "Some rich kid",
+        "artType": "Painting",
+        "mainPicture": "https://nt.global.ssl.fastly.net/binaries/content/gallery/website/national/library/discover-and-learn/history/art-and-collections/young-girl-holding-chaffinch-upton-house-1336611.jpg?auto=webp&width=767&crop=16:9&dpr=2%202x"
+    },
+    {
+        "id": "18",
+        "artist": "La Booca",
+        "title": "Another Rich kid",
+        "artType": "Print",
+        "mainPicture": "https://az333959.vo.msecnd.net/images-9/untitled-antoine-pesne-1737-8f3fe33f.jpg"
+    },
+    {
+        "id": "19",
+        "artist": "Hippie",
+        "title": "A flying dolphine",
+        "artType": "Painting",
+        "mainPicture": "https://i0.wp.com/stepbysteppainting.net/wp-content/uploads/2023/04/Paradise-Cove.jpg?fit=600%2C780&ssl=1&resize=400%2C400"
+    },
+    {
+        "id": "20",
+        "artist": "",
+        "title": "",
+        "artType": "",
+        "mainPicture": ""
+    },
+    {
+        "id": "21",
+        "artist": "Samuri",
+        "title": "Cherry Blossom",
+        "artType": "Painting",
+        "mainPicture": "https://cdn.shopify.com/s/files/1/1159/6308/products/MoonlightCherryBlossom_product.jpg?v=1637351749"
+    },
+    {
+        "id": "22",
+        "artist": "Leonardo Da Vinci",
+        "title": "God and Dude touching fingers",
+        "artType": "Print",
+        "mainPicture": "https://impressionistarts.com/static/10e3d379c1c876a2c62e7ed41cac922a/14b42/michelangelo-the-sistine-chapel-creation-of-adam.jpg"
+    },
+    {
+        "id": "23",
+        "artist": "Unknown",
+        "title": "Land Hot air balloons",
+        "artType": "Print",
+        "mainPicture": "https://www.heraldnet.com/wp-content/uploads/2021/10/26713309_web1_TSR-Rob-Schouten-edh-211007.jpg"
+    },
+    {
+        "id": "24",
+        "artist": "Unknown",
+        "title": "Water",
+        "artType": "Print",
+        "mainPicture": "https://paintwithkevin.com/uploads/3/4/4/6/34463218/the-rugged-coast_orig.png"
+    },
+    {
+        "id": "25",
+        "artist": "Hippie",
+        "title": "A cat",
+        "artType": "Print",
+        "mainPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHJ3Ql9Zm2z6mz6jWDu2KmOSSYlsuylQwZDxX-nSZ-A&usqp=CAU&ec=48665701"
+    },
+    {
+        "id": "26",
+        "artist": "Samuri",
+        "title": "Another cherry blossom",
+        "artType": "Painting",
+        "mainPicture": "https://i.pinimg.com/originals/bf/3e/77/bf3e77ff0fb528b2222d7bc7f6dca8e0.jpg"
+    },
+    {
+        "id": "27",
+        "artist": "Italian",
+        "title": "An italian picnic",
+        "artType": "Print",
+        "mainPicture": "https://images.immediate.co.uk/production/volatile/sites/18/2020/02/Breakfast-1873-by-Claude-Monet-1840-1926.-Photo-by-DeAgostini_Getty-Images-Paris-Muse%CC%81e-DOrsay-Art-Gallery.-Photo-by-DeAgostini_Getty-Images_1-a169874-scaled.jpg"
+    },
+    {
+        "id": "28",
+        "artist": "Unknown",
+        "title": "Creepy Couple",
+        "artType": "Painting",
+        "mainPicture": "https://www.theartist.me/wp-content/uploads/2017/08/the-lover-by-rene.jpg"
+    },
+    {
+        "id": "29",
+        "artist": "George",
+        "title": "A walk through the park",
+        "artType": "Painting",
+        "mainPicture": "https://artist.com/photos/arts/extra-big/autumn-walk-1800329209.jpg"
+    },
+    {
+        "id": "30",
+        "artist": "Hippie",
+        "title": "A guy and a dog",
+        "artType": "Painting",
+        "mainPicture": "https://images.saatchiart.com/saatchi/425707/art/9329927/8393035-ZVGJAWSP-6.jpg"
+    },
+    {
+        "id": "31",
+        "artist": "Gross Girl",
+        "title": "Gross Girl",
+        "artType": "Painting",
+        "mainPicture": "https://images.saatchiart.com/saatchi/685795/art/5457071/4526883-BHSQTDTK-7.jpg"
+    },
+    {
+        "id": "32",
+        "artist": "Bob Ross",
+        "title": "Flowers in bushes",
+        "artType": "Painting",
+        "mainPicture": "https://paveikslai.lt/83795-large_default/marius-strolia-painting-white-day.jpg"
+    },
+    {
+        "id": "33",
+        "artist": "Hippie",
+        "title": "Taylor Swift in starry night",
+        "artType": "Print",
+        "mainPicture": "https://s.abcnews.com/images/GMA/230209_gma_digital_halie_torres_hpMain_1x1_992.jpg"
+    },
+    {
+        "id": "34",
+        "artist": "Unknown",
+        "title": "A weird fish",
+        "artType": "Painting",
+        "mainPicture": "https://osnatfineart.com/artworks/full/painting-8015-1-red-Koi-fish-painting-textured.webp"
+    },
+    {
+        "id": "35",
+        "artist": "Bob Ross",
+        "title": "Mountains with trees",
+        "artType": "Painting",
+        "mainPicture": "https://image.pbs.org/contentchannels/DQhaEaX-background-1U3qFyO.png?focalcrop=1200x630x50x10&format=auto"
+    },
+    {
+        "id": "36",
+        "artist": "Bob Ross",
+        "title": "Log Cabin",
+        "artType": "Painting",
+        "mainPicture": "https://m.media-amazon.com/images/I/71KaNz7a4JL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": "37",
+        "artist": "Bob Ross",
+        "title": "A forest with mountains",
+        "artType": "Painting",
+        "mainPicture": "https://static.wixstatic.com/media/2eabea_47b6b75caa7641caa39cebc5e9b3efb1~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/2eabea_47b6b75caa7641caa39cebc5e9b3efb1~mv2.jpg"
+    },
+    {
+        "id": "38",
+        "artist": "Bob Ross",
+        "title": "Super Bob Ross",
+        "artType": "Painting",
+        "mainPicture": "https://odditymall.com/includes/content/epic-bob-ross-painting-printed-poster-0.jpg"
+    },
+    {
+        "id": "39",
+        "artist": "Gross Girl",
+        "title": "Another gross girl",
+        "artType": "Print",
+        "mainPicture": "https://assets3.novica.net/2015/assets/images/categoryplate/paintings/ticker/2019nov4.jpg"
+    },
+    {
+        "id": "40",
+        "artist": "La Booca",
+        "title": "A lady",
+        "artType": "Print",
+        "mainPicture": "https://expertphotography.b-cdn.net/wp-content/uploads/2018/11/turn-photos-into-paintings-portrait-after.jpg"
+    },
+    {
+        "id": "41",
+        "artist": "Bob Ross",
+        "title": "A lake",
+        "artType": "Painting",
+        "mainPicture": "https://paintwithkevin.com/uploads/3/4/4/6/34463218/classic-mountain_orig.jpg"
+    },
+    {
+        "id": "42",
+        "artist": "Vincent Van Gough",
+        "title": "Self Portrait",
+        "artType": "Painting",
+        "mainPicture": "https://daily.jstor.org/wp-content/uploads/2023/06/why_we_connect_with_vincent_van_goghs_paintings_1050x700.jpg"
+    },
+    {
+        "id": "43",
+        "artist": "La Poo",
+        "title": "Stressed out lady",
+        "artType": "Print",
+        "mainPicture": "https://i.cbc.ca/1.5718816.1599841371!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/jean-smith.jpg"
+    },
+    {
+        "id": "44",
+        "artist": "",
+        "title": "",
+        "artType": "",
+        "mainPicture": ""
+    },
+    {
+        "id": "45",
+        "artist": "Frida",
+        "title": "Frida from COCO",
+        "artType": "Print",
+        "mainPicture": "https://media.mutualart.com/Images/2018_11/19/15/152253419/e59fc3d6-4d72-4cc8-b2ba-d5a3121b8d7a_570.Jpeg"
+    },
+    {
+        "id": "46",
+        "artist": "Vincent Van Gough",
+        "title": "Baby Puke",
+        "artType": "Painting",
+        "mainPicture": "https://www.artnews.com/wp-content/uploads/2022/12/Brett-Goodroad_Untitled_20132022.jpg?w=1200"
+    },
+    {
+        "id": "47",
+        "artist": "Unknown",
+        "title": "Marilyn Monroe",
+        "artType": "Print",
+        "mainPicture": "https://images.fineartamerica.com/images/artworkimages/medium/1/1-marilyn-michael-tompsett.jpg"
+    },
+    {
+        "id": "48",
+        "artist": "Vincent Van Gough",
+        "title": "Russian Van Gough",
+        "artType": "Painting",
+        "mainPicture": "https://courtauld.ac.uk/wp-content/uploads/2021/04/Self-Portrait-with-Bandaged-Ear-Banner-aspect-ratio-16-9-2-940x0-c-default.jpg"
+    },
+    {
+        "id": "49",
+        "artist": "Hippie",
+        "title": "Barf I call Art",
+        "artType": "Print",
+        "mainPicture": "https://novacolorpaint.com/cdn/shop/articles/Textured_canvas_art_in_multiple_colors.jpg?v=1657874747"
+    },
+    {
+        "id": "50",
+        "artist": "Unknown",
+        "title": "SOme Fruit",
+        "artType": "Print",
+        "mainPicture": "https://www.artistsandillustrators.co.uk/wp-content/uploads/2022/05/Cezanne-still_life_with_milk_jug_and_fruit_1972.9.5.jpg"
+    },
+    {
+        "id": "51",
+        "artist": "Vincent Van Gough",
+        "title": "Melting clocks",
+        "artType": "Painting",
+        "mainPicture": "https://10mosttoday.com/wp-content/uploads/2013/09/The_Persistence_of_Memory1.jpg"
+    },
+    {
+        "id": "52",
+        "artist": "Hippie",
+        "title": "More puke on painting",
+        "artType": "Painting",
+        "mainPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPXN5XmLX2A27ERw_PCgSyaSJbi1M-DUBaOB_orn4wYw&usqp=CAU&ec=48665701"
+    },
+    {
+        "id": "53",
+        "artist": "Hippie",
+        "title": "Diversity",
+        "artType": "Print",
+        "mainPicture": "https://media.npr.org/assets/img/2022/06/30/img_6582_custom-447b00539a476e0067f77c4067a2045be4341039.jpg"
+    },
+    {
+        "id": "54",
+        "artist": "Frida",
+        "title": "More frida from COCO",
+        "artType": "Print",
+        "mainPicture": "https://faroutmagazine.co.uk/static/uploads/1/2023/02/Exploring-10-final-paintings-by-iconic-artists-Far-Out-Magazine.jpg"
+    },
+    {
+        "id": "55",
+        "artist": "Leonardo Da Vinci",
+        "title": "Old Ladies",
+        "artType": "Print",
+        "mainPicture": "https://dia.org/sites/default/files/2022-08/52.253-d1-2019-06-21_o2_new_resized-1.png"
+    },
+    {
+        "id": "56",
+        "artist": "La Poo",
+        "title": "y tho",
+        "artType": "Print",
+        "mainPicture": "https://img.buzzfeed.com/buzzfeed-static/static/2017-02/2/10/campaign_images/buzzfeed-prod-fastlane-02/17-works-of-art-that-werent-meant-to-be-funny-but-2-30325-1486050395-0_dblbig.jpg?resize=1200:*"
+    },
+    {
+        "id": "57",
+        "artist": "La Poo",
+        "title": "Mona Squidward",
+        "artType": "Print",
+        "mainPicture": "https://m.media-amazon.com/images/I/61QuO004GSL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": "58",
+        "artist": "La Poo",
+        "title": "St. Marry Mother F's",
+        "artType": "Painting",
+        "mainPicture": "https://www.singulart.com/images/artworks/v2/cropped/14425/main/zoom/609529_bb9d9e084f3f0a23ef2cc079a9842a11.jpeg"
+    },
+    {
+        "id": "59",
+        "artist": "La Poo",
+        "title": "Derrrr",
+        "artType": "Painting",
+        "mainPicture": "https://www.rd.com/wp-content/uploads/2014/06/funny-art-brouwer-youth.jpg?fit=544,624"
+    },
+    {
+        "id": "60",
+        "artist": "",
+        "title": "",
+        "artType": "",
+        "mainPicture": ""
+    },
+    {
+        "id": "61",
+        "artist": "La Poo",
+        "title": "A goose",
+        "artType": "Print",
+        "mainPicture": "https://images.saatchiart.com/saatchi/1664319/art/7949693/7017229-HSC00001-6.jpg"
+    },
+    {
+        "id": "62",
+        "artist": "Hippie",
+        "title": "Michael Chihuahua",
+        "artType": "Print",
+        "mainPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKkJGD1yHHZUCxoUvUDmqbIBKijf1T0DGUrOjwylozwQ&usqp=CAU&ec=48665701"
+    },
+    {
+        "id": "63",
+        "artist": "Vincent Van Gough",
+        "title": "A lion in the desert",
+        "artType": "Painting",
+        "mainPicture": "https://1.bp.blogspot.com/-KwciTPA5diM/UU8UKmJvUWI/AAAAAAAAO6M/wNMf1umtR4M/s1600/Funny+painting+Dali+style.jpg"
     }
 ]
