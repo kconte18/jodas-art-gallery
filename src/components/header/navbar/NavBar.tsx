@@ -15,7 +15,7 @@ export default function NavBar() {
         <ul className={styles["navbar-container"]}>
             <li className={styles["navbar-item"]}>
                 <NavLink to="" className={({ isActive }) => isActive ? styles.active : ""}>
-                    Art Gallery
+                    Gallery
                 </NavLink>
             </li>
             <li className={styles["navbar-item"]}>|</li>

@@ -6,7 +6,9 @@ export default function Header(){
     return (
         <div className={styles["header-container"]}>
             <WebsiteTitle />
+            <hr className={`${styles.line} ${styles.top}`} />
             <NavBar />
+            <hr className={`${styles.line} ${styles.bottom}`}/>
         </div>
     )
 }
