@@ -10,3 +10,10 @@
         height: 10rem;
     }
 }
+
+.artist {
+    font-family: "Noto Serif", serif;
+    font-size: 32px;
+    font-weight: 300;
+    white-space: nowrap;
+}
