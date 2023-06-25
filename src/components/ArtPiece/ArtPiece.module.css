@@ -1,5 +1,6 @@
 .main-picture {
-    height: 20rem;
+    max-height: 20rem;
+    max-width: 20rem;
     padding: 2px;
     border: 2px solid black;
 }
