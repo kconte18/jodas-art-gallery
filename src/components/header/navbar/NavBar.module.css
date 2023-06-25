@@ -8,9 +8,21 @@
     list-style-type: none;
     white-space: nowrap;
     cursor: pointer;
+    font-family: 'Noto Serif', serif;
+    font-size: 40px;
+    font-weight: 300;
+    margin-top: 2rem;
 }
 
-.navbar-item:hover {
-    color: blue;
+.active {
+    color: #AB8500;
+}
+
+a {
+    color: #E0AF00;
+    text-decoration: none;
+}
+
+a:hover {
     text-decoration: underline;
 }
