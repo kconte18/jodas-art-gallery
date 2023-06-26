@@ -10,6 +10,7 @@ import ErrorPage from './pages/ErrorPage/ErrorPage';
 function App() {
   return (
     <div className="App">
+      <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300&family=Tangerine:wght@700&display=swap" rel="stylesheet"></link>
       <BrowserRouter>
       <Header />
         <Routes>

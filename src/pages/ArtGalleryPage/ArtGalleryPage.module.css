@@ -7,10 +7,23 @@
 
 .art-piece-list {
     display: grid;
-    grid-template-columns: max-content max-content max-content;
+    grid-template-columns: max-content;
     column-gap: 10rem;
     justify-content: center;
     justify-items: center;
+    align-items: center;
     row-gap: 4rem;
     width: fit-content;
+}
+
+
+@media screen and (min-width: 1025px) {
+    .art-piece-list {
+        grid-template-columns: max-content max-content;
+    }
+}
+@media screen and (min-width: 1520px) {
+    .art-piece-list {
+        grid-template-columns: max-content max-content max-content;
+    }
 }

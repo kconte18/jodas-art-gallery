@@ -59,16 +59,16 @@ export default function Pagination(props: {handleSetPageNum: any, pageNum: numbe
         <ul className={styles["pagination-container"]}>
             {/* Prev Button */}
             {showPrevButton && <li className={styles["pagination-item"]} onClick={props.handleSetPageNum}>&lt;&lt;</li>}
-            {!showPrevButton && <li className={styles["pagination-item-disabled"]}>&lt;&lt;</li>}
+            {!showPrevButton && <li className={`${styles["pagination-item"]} ${styles.disabled}`}>&lt;&lt;</li>}
             {/* All pages */}
-            <li className={props.pageNum === 1 ? styles["pagination-item-active"] : styles["pagination-item"]} onClick={props.handleSetPageNum}>1</li>
-            {prevDotDotDot && <p>...</p>}
-            {shownPagesArray.map((i) =>  <li className={props.pageNum === (i) ? styles["pagination-item-active"] : styles["pagination-item"]} onClick={props.handleSetPageNum} key={i}>{i}</li>)}
-            {nextDotDotDot && <p>...</p>}
-            <li className={props.pageNum === props.maxPageNum ? styles["pagination-item-active"] : styles["pagination-item"]} onClick={props.handleSetPageNum}>{props.maxPageNum}</li>
+            <li className={props.pageNum === 1 ? `${styles["pagination-item"]} ${styles.active}` : styles["pagination-item"]} onClick={props.handleSetPageNum}>1</li>
+            {prevDotDotDot && <p className={styles.dodot}>...</p>}
+            {shownPagesArray.map((i) =>  <li className={props.pageNum === (i) ? `${styles["pagination-item"]} ${styles.active}` : styles["pagination-item"]} onClick={props.handleSetPageNum} key={i}>{i}</li>)}
+            {nextDotDotDot && <p className={styles.dotdot}>...</p>}
+            <li className={props.pageNum === props.maxPageNum ? `${styles["pagination-item"]} ${styles.active}` : styles["pagination-item"]} onClick={props.handleSetPageNum}>{props.maxPageNum}</li>
             {/* Next Button */}
             {showNextButton && <li className={styles["pagination-item"]} onClick={props.handleSetPageNum}>&gt;&gt;</li>}
-            {!showNextButton && <li className={styles["pagination-item-disabled"]}>&gt;&gt;</li>}
+            {!showNextButton && <li className={`${styles["pagination-item"]} ${styles.disabled}`}>&gt;&gt;</li>}
         </ul>
     );
 }

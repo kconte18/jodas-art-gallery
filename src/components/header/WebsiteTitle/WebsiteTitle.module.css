@@ -1,14 +1,57 @@
+/* Website Title Container */
 .website-title-container {
     display: flex;
     width: 100%;
     justify-content: space-between;
 }
 
-.website-title {
-    margin: 0 0 0 100px;
-    align-self: flex-end;
+@media screen and (max-width: 842px){
+    .website-title-container {
+        justify-content: center;
+    }
 }
 
+/* Website Title */
+.website-title {
+    font-family: 'Tangerine', serif;
+    font-size: 96px;
+    margin: 0 0 0 4rem;
+    align-self: flex-end;
+    color: #E0AF00;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 1025px){
+    .website-title {
+        font-size: 72px;
+    }
+}
+
+@media screen and (max-width: 842px){
+    .website-title {
+        margin: 4rem 0 0 0;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .website-title {
+        font-size: 60px;
+    }
+}
+
+/* Website Picture */
 .website-picture {
-    height: 250px;
+    height: 14rem;
+}
+
+@media screen and (max-width: 842px){
+    .website-picture {
+        height: 10rem
+    }
+}
+
+@media screen and (max-width: 842px){
+    .website-picture {
+        display: none;
+    }
 }

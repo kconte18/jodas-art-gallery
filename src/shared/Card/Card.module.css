@@ -3,6 +3,7 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
   border-radius: 10px;
   width: min-content;
+  height: min-content;
   padding: 2rem 2rem 1rem 2rem;
 }
   
