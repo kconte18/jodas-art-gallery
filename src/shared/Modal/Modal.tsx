@@ -1,5 +1,4 @@
 import ReactDOM from "react-dom";
-import Card from "../Card/Card";
 import styles from "./Modal.module.css";
 
 function Backdrop(props: any) {

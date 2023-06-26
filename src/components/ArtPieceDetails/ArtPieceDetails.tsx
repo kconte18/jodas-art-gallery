@@ -1,4 +1,4 @@
-import styles from "./ArtPieceDetails.module.css";
+// import styles from "./ArtPieceDetails.module.css";
 import Modal from "../../shared/Modal/Modal";
 import { ArtPieceModel } from "../../models/ArtPieceModel";
 

@@ -1,8 +1,8 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useMemo } from "react";
 import styles from "./Pagination.module.css";
 
 export default function Pagination(props: {handleSetPageNum: any, pageNum: number, maxPageNum: number}) {
-    const allPagesArray: number[] = [];
+    const allPagesArray: number[]= useMemo(() => [], []);
     for(let ii = 1; ii <= props.maxPageNum; ii++) {
         allPagesArray.push(ii);
     }
@@ -37,7 +37,7 @@ export default function Pagination(props: {handleSetPageNum: any, pageNum: numbe
             console.log("hi");
             setShowPagesArray(allPagesArray.slice(firstPage, lastPage))
         }
-    }, [props.pageNum])
+    }, [props.pageNum, props.maxPageNum, allPagesArray])
 
     // Shows ... between numbers
     useEffect(() => {
@@ -53,7 +53,7 @@ export default function Pagination(props: {handleSetPageNum: any, pageNum: numbe
         else {
             setNextDotDotDot(true);
         }
-    }, [shownPagesArray])
+    }, [shownPagesArray, props.maxPageNum])
 
     return (
         <ul className={styles["pagination-container"]}>
