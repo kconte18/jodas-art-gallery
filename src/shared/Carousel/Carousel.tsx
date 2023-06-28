@@ -23,7 +23,7 @@ export default function Carousel(props: { pictures: string[] | undefined }) {
 
     const renderSlides = () =>
         props.pictures?.map(pic => (
-            <div className={styles["sub-pic-container"]}>
+            <div key={pic} className={styles["sub-pic-container"]}>
                 <img className={styles["sub-pic"]} src={pic} alt="Pic" />
             </div>
         ));
