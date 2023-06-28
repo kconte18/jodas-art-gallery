@@ -28,8 +28,6 @@ export default function Carousel(props: { pictures: string[] | undefined }) {
             </div>
         ));
 
-    let nextArrow = <p className={styles.next}>Poop</p>
-
     return (
         <Slider className={styles.slider} dots={true} nextArrow={<NextArrow onClick={onclick} />} prevArrow={<PrevArrow onClick={onclick} />} arrows={true}>
             {renderSlides()}
