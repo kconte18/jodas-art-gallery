@@ -1,23 +1,25 @@
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import styles from "./Carousel.module.css";
+import chevronRight from "../../assets/chevron_right.svg";
+import chevronLeft from "../../assets/chevron_left.svg";
 
 import Slider from 'react-slick';
 
 export default function Carousel(props: { pictures: string[] | undefined }) {
     function NextArrow(props: { onClick: any }) {
         return (
-            <span className={styles["next-arrow"]} onClick={props.onClick}>
-                Next
-            </span>
+            <div className={styles["next-arrow-div"]} onClick={props.onClick}>
+              <img src={chevronRight} className={styles["next-arrow"]} alt="next"/>
+            </div>
         )
     }
 
     function PrevArrow(props: { onClick: any }) {
         return (
-            <span className={styles["prev-arrow"]} onClick={props.onClick}>
-                Prev
-            </span>
+            <div className={styles["prev-arrow-div"]} onClick={props.onClick}>
+              <img src={chevronLeft} className={styles["prev-arrow"]} alt="prev" />
+            </div>
         )
     }
 
