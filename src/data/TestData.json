@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "artist": "Layla",
+    "title": "A Walk in the City",
+    "artType": "Painting",
+    "mainPicture": "https://live.staticflickr.com/65535/53303929521_90f81258b7_b.jpg",
+    "pictures": [
+      "https://live.staticflickr.com/65535/53303929521_90f81258b7_b.jpg",
+      "https://live.staticflickr.com/65535/53303067732_332d0f7e3f_b.jpg",
+      "https://live.staticflickr.com/65535/53304174643_d4522fc9e4_b.jpg",
+      "https://live.staticflickr.com/65535/53304298989_ff8e6a8ebb_b.jpg"
+    ]
+  },
+  {
+    "id":"2",
+    "artist": "Unknown",
+    "title": "Paris",
+    "artType": "Painting",
+    "mainPicture": "https://live.staticflickr.com/65535/53304183528_7f8dcaf14e_c.jpg",
+    "pictures": [
+      "https://live.staticflickr.com/65535/53304183528_7f8dcaf14e_c.jpg",
+      "https://live.staticflickr.com/65535/53304183548_6957be92ec_b.jpg",
+      "https://live.staticflickr.com/65535/53304183553_860e2812c5_b.jpg",
+      "https://live.staticflickr.com/65535/53304183543_3b06fce1f2_b.jpg"
+    ]
+  },
+  {
+    "id":"3",
+    "artist": "T.L. Toiter",
+    "title": "Some Flowers",
+    "artType": "Painting",
+    "mainPicture": "https://live.staticflickr.com/65535/53304190223_5df9a7a7a3_c.jpg",
+    "pictures": [
+      "https://live.staticflickr.com/65535/53304190223_5df9a7a7a3_c.jpg",
+      "https://live.staticflickr.com/65535/53303944951_54479aabe8_c.jpg",
+      "https://live.staticflickr.com/65535/53304314154_c94591a89a_c.jpg",
+      "https://live.staticflickr.com/65535/53304420955_4edf65a608_c.jpg"
+    ]
+  }
+]
+
