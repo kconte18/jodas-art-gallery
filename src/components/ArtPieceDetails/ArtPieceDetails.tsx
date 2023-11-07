@@ -9,10 +9,6 @@ import Carousel from "../../shared/Carousel/Carousel";
 export default function ArtPieceDetails(props: {onClose: any, artPiece: ArtPieceModel}) {
     return (
         <Modal onClose={props.onClose}>
-            {/* <button className={styles['close-button']} onClick={props.onClose}>
-                <img src={close} alt="close"/>
-            </button> */}
-
             <img src={close} className={styles['close-button']} alt="close" onClick={props.onClose}/>
             {/* carrousel for multiple pictures */}
             <Carousel pictures={props.artPiece.pictures}/>
