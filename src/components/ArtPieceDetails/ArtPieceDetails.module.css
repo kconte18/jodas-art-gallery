@@ -1,0 +1,11 @@
+.close-button {
+  position: relative;
+  margin-bottom: 1rem;
+  right: 50%;
+  cursor: pointer;
+  height: 2rem;
+}
+
+.close-button:hover {
+  filter: invert(67%) sepia(59%) saturate(2465%) hue-rotate(11deg) brightness(101%) contrast(101%);
+}
