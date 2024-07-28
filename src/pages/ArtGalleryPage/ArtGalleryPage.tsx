@@ -2,7 +2,8 @@ import { useEffect, useState } from "react";
 import ArtPiece from "../../components/ArtPiece/ArtPiece";
 import Pagination from "../../components/Pagination/Pagination";
 import SearchBar from "../../components/SearchBar/SearchBar";
-import FakeData from "../../data/FakeData.json";
+// import FakeData from "../../data/FakeData.json";
+import FakeData from "../../data/TestData.json";
 import styles from "./ArtGalleryPage.module.css";
 
 const maxPageNum: number = Math.ceil(FakeData.length / 6);
