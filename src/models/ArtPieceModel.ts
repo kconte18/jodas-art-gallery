@@ -4,7 +4,9 @@ export class ArtPieceModel {
     id: string;
     artist: string;
     title?: string;
-    artType: ArtType;
+    artType?: ArtType;
+    size?: string;
+    description?: string;
     mainPicture: string;
     pictures?: string[];
 

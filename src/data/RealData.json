@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "artist": "Antonio",
+    "title": "Beautiful Canvas Painting",
+    "size": "36x24",
+    "description": "This is a description for this art piece that is a beautiful canvas painting.",
+    "mainPicture": "/pictures/Antonio/Antonio1.jpg",
+    "pictures": [
+      "/pictures/Antonio/Antonio1.jpg",
+      "/pictures/Antonio/Antonio2.jpg",
+      "/pictures/Antonio/Antonio3.jpg",
+      "/pictures/Antonio/Antonio4.jpg"
+    ]
+  },
+  {
+    "id":"2",
+    "artist": "",
+    "title": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"3",
+    "artist": "",
+    "title": "",
+    "artType": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]
+

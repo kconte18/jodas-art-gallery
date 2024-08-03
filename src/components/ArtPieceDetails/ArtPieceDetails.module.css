@@ -9,3 +9,15 @@
 .close-button:hover {
   filter: invert(67%) sepia(59%) saturate(2465%) hue-rotate(11deg) brightness(101%) contrast(101%);
 }
+
+h2 {
+  font-family: "Noto Serif", serif;
+}
+
+h1 {
+  font-family: "Noto Serif", serif;
+}
+
+p {
+  font-family: "Noto Serif", serif;
+}

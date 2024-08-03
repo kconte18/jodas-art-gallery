@@ -2,14 +2,14 @@ import { useEffect, useState } from "react";
 import ArtPiece from "../../components/ArtPiece/ArtPiece";
 import Pagination from "../../components/Pagination/Pagination";
 import SearchBar from "../../components/SearchBar/SearchBar";
-// import FakeData from "../../data/FakeData.json";
-import FakeData from "../../data/TestData.json";
+// import FakeData from "../../data/TestData.json";
+import RealData from "../../data/RealData.json";
 import styles from "./ArtGalleryPage.module.css";
 
-const maxPageNum: number = Math.ceil(FakeData.length / 6);
+const maxPageNum: number = Math.ceil(RealData.length / 6);
 
 export default function ArtGalleryPage() {
-    const [shownArtPieces, setShowArtPieces] = useState(FakeData.slice(0, 6));
+    const [shownArtPieces, setShowArtPieces] = useState(RealData.slice(0, 6));
     const [pageNum, setPageNum] = useState(1);
 
     const handleSetPageNum = (event: any) => {
@@ -29,7 +29,7 @@ export default function ArtGalleryPage() {
 
     useEffect(() => {
         // Change shown art pieces (shownArtPieces)
-        setShowArtPieces(FakeData.slice((pageNum - 1) * 6, pageNum * 6))
+        setShowArtPieces(RealData.slice((pageNum - 1) * 6, pageNum * 6))
     }, [pageNum])
 
     return (
