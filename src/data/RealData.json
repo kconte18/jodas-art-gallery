@@ -183,101 +183,100 @@
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
-    "description": "",
-    "mainPicture": "",
+    "id":"14",
+    "artist": "Henri LeRoy",
+    "title": "Spirited Horses",
+    "size": "23 ¼” x 19 ½”",
+    "description": "Antique Black and White Horses with Vintage Frame Dated 1916",
+    "mainPicture": "/pictures/Henri LeRoy/LeRoy1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Henri LeRoy/LeRoy1.jpg",
+      "/pictures/Henri LeRoy/LeRoy2.jpg",
+      "/pictures/Henri LeRoy/LeRoy3.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
-    "description": "",
-    "mainPicture": "",
+    "id":"15",
+    "artist": "Henry Callender",
+    "title": "To the Society of Goffers at Blackheath",
+    "size": "16 ¼” x 21 ¼”",
+    "description": "Engraved William Ward",
+    "mainPicture": "/pictures/Henry Callender/Callender1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Henry Callender/Callender1.jpg",
+      "/pictures/Henry Callender/Callender2.jpg",
+      "/pictures/Henry Callender/Callender3.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
-    "description": "",
-    "mainPicture": "",
+    "id":"16",
+    "artist": "Jean Francois Millet",
+    "title": "The Angelus Ringing",
+    "size": "28 ½” x 24 ½”",
+    "description": "Oil on Canvas",
+    "mainPicture": "/pictures/Jean Francois Millet/Millet1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Jean Francois Millet/Millet1.jpg",
+      "/pictures/Jean Francois Millet/Millet2.jpg",
+      "/pictures/Jean Francois Millet/Millet3.jpg",
+      "/pictures/Jean Francois Millet/Millet4.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
-    "description": "",
-    "mainPicture": "",
+    "id":"17",
+    "artist": "JLG Ferris",
+    "title": "General’s Shaking Hands",
+    "size": "17” x 13”",
+    "description": "Vintage Print with George Washington Photo on the wall",
+    "mainPicture": "/pictures/JLG Ferris/Ferris1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/JLG Ferris/Ferris1.jpg",
+      "/pictures/JLG Ferris/Ferris2.jpg",
+      "/pictures/JLG Ferris/Ferris3.jpg",
+      "/pictures/JLG Ferris/Ferris4.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
-    "description": "",
-    "mainPicture": "",
+    "id":"18",
+    "artist": "John Gould",
+    "title": "Scops Zorca",
+    "size": "15 ½” x 23 ¼”",
+    "description": "Lithograph with Original Hand-Coloring",
+    "mainPicture": "/pictures/John Gould/Gould1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/John Gould/Gould1.jpg",
+      "/pictures/John Gould/Gould2.jpg",
+      "/pictures/John Gould/Gould3.jpg",
+      "/pictures/John Gould/Gould4.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
+    "id":"19",
+    "artist": "John Powell",
+    "title": "Signed Serigraph Wicker Baskets Limited Edition 252/300",
+    "size": "41 ½” x 34 ¼”",
     "description": "",
-    "mainPicture": "",
+    "mainPicture": "/pictures/John Powell/Powell1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/John Powell/Powell1.jpg",
+      "/pictures/John Powell/Powell2.jpg",
+      "/pictures/John Powell/Powell3.jpg",
+      "/pictures/John Powell/Powell4.jpg",
+      "/pictures/John Powell/Powell5.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
+    "id":"20",
+    "artist": "Le Blanc",
+    "title": "Signed Limited Edition 915/950 Print",
+    "size": "31” x 27”",
     "description": "",
-    "mainPicture": "",
+    "mainPicture": "/pictures/Le Blanc/Blanc1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Le Blanc/Blanc1.jpg",
+      "/pictures/Le Blanc/Blanc2.jpg",
+      "/pictures/Le Blanc/Blanc3.jpg",
+      "/pictures/Le Blanc/Blanc4.jpg"
     ]
   },
   {
