@@ -3,8 +3,8 @@
     "id": "1",
     "artist": "Antonio",
     "title": "Beautiful Canvas Painting",
-    "size": "36x24",
-    "description": "This is a description for this art piece that is a beautiful canvas painting.",
+    "size": "36” x 24”",
+    "description": "",
     "mainPicture": "/pictures/Antonio/Antonio1.jpg",
     "pictures": [
       "/pictures/Antonio/Antonio1.jpg",
@@ -15,8 +15,178 @@
   },
   {
     "id":"2",
+    "artist": "Arthur Becher",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "/pictures/Arthur Becher/Becher1.jpeg",
+    "pictures": [
+      "/pictures/Arthur Becher/Becher1.jpeg",
+      "/pictures/Arthur Becher/Becher2.jpeg",
+      "/pictures/Arthur Becher/Becher3.jpeg",
+      "/pictures/Arthur Becher/Becher4.jpeg"
+    ]
+  },
+  {
+    "id":"3",
+    "artist": "Bernard Martin",
+    "title": "Duck's Landing",
+    "size": "",
+    "description": "Canvas Painting",
+    "mainPicture": "/pictures/Bernard Martin/BMARTIN1.jpeg",
+    "pictures": [
+      "/pictures/Bernard Martin/BMARTIN1.jpeg",
+      "/pictures/Bernard Martin/BMARTIN2.jpeg",
+      "/pictures/Bernard Martin/BMARTIN3.jpeg",
+      "/pictures/Bernard Martin/BMARTIN4.jpeg"
+    ]
+  },
+  {
+    "id":"4",
+    "artist": "Carle Vanloo",
+    "title": "Two Vintage Prints Fessard Engraving",
+    "size": "",
+    "description": "",
+    "mainPicture": "/pictures/Carle Vanloo/Vanloo1.jpeg",
+    "pictures": [
+      "/pictures/Carle Vanloo/Vanloo1.jpeg",
+      "/pictures/Carle Vanloo/Vanloo2.jpg",
+      "/pictures/Carle Vanloo/Vanloo3.jpg",
+      "/pictures/Carle Vanloo/Vanloo4.jpg",
+      "/pictures/Carle Vanloo/Vanloo5.jpg"
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "E. Quotskuyva",
+    "title": "“Signed Hopi Painting”",
+    "size": "",
+    "description": "Rare",
+    "mainPicture": "/pictures/E. Quotskuyva/QUOTSKUYVA1.jpg",
+    "pictures": [
+      "/pictures/E. Quotskuyva/QUOTSKUYVA1.jpg",
+      "/pictures/E. Quotskuyva/QUOTSKUYVA2.jpg",
+      "/pictures/E. Quotskuyva/QUOTSKUYVA3.jpg",
+      "/pictures/E. Quotskuyva/QUOTSKUYVA4.jpg"
+    ]
+  },
+  {
+    "id":"6",
+    "artist": "E. Savage",
+    "title": "The Washington Family",
+    "size": "17 ¼” x 13 ½” ",
+    "description": "Vintage and Rare",
+    "mainPicture": "/pictures/E. Savage/SAVAGE1.jpg",
+    "pictures": [
+      "/pictures/E. Savage/SAVAGE1.jpg",
+      "/pictures/E. Savage/SAVAGE2.jpg",
+      "/pictures/E. Savage/SAVAGE3.jpg",
+      "/pictures/E. Savage/SAVAGE4.jpg",
+      "/pictures/E. Savage/SAVAGE5.jpg"
+    ]
+  },
+  {
+    "id":"7",
+    "artist": "Ertè",
+    "title": "Symphony in Black",
+    "size": "",
+    "description": "Vintage 1980 Ertè, Silver Foil Serigraph. This Serigraph has the autograph",
+    "mainPicture": "/pictures/Erte/ERTE1.jpg",
+    "pictures": [
+      "/pictures/Erte/ERTE1.jpg",
+      "/pictures/Erte/ERTE2.jpg",
+      "/pictures/Erte/ERTE3.jpg",
+      "/pictures/Erte/ERTE4.jpg"
+    ]
+  },
+  {
+    "id":"8",
+    "artist": "Franklin Saye",
+    "title": "Reflections",
+    "size": "31 ½” x 24 ¾”",
+    "description": "Signed Limited Edition 30/500",
+    "mainPicture": "/pictures/Franklin Saye/SAYE1.jpg",
+    "pictures": [
+      "/pictures/Franklin Saye/SAYE1.jpg",
+      "/pictures/Franklin Saye/SAYE2.jpg",
+      "/pictures/Franklin Saye/SAYE3.jpg",
+      "/pictures/Franklin Saye/SAYE4.jpg"
+    ]
+  },
+  {
+    "id":"9",
+    "artist": "G. Harvey",
+    "title": "In the Land of the Tetons",
+    "size": "38” x 26”",
+    "description": "Limited Edition 1358/1950 with Certificate of Authenticity",
+    "mainPicture": "/pictures/G. Harvey/HARVEY1.jpg",
+    "pictures": [
+      "/pictures/G. Harvey/HARVEY1.jpg",
+      "/pictures/G. Harvey/HARVEY2.jpg",
+      "/pictures/G. Harvey/HARVEY3.jpg",
+      "/pictures/G. Harvey/HARVEY4.jpg"
+    ]
+  },
+  {
+    "id":"10",
+    "artist": "G. LeLong",
+    "title": "Paris - La Tour Eiffel",
+    "size": "14 ⅞” x 18 ⅛”",
+    "description": "Lithograph Print",
+    "mainPicture": "/pictures/G. LeLong/LELONG1.jpg",
+    "pictures": [
+      "/pictures/G. LeLong/LELONG1.jpg",
+      "/pictures/G. LeLong/LELONG2.jpg",
+      "/pictures/G. LeLong/LELONG3.jpg"
+    ]
+  },
+  {
+    "id":"11",
+    "artist": "Georges Mathieu",
+    "title": "Original 1967 Air France - France Poster",
+    "size": "24 ⅞” x 40 ½”",
+    "description": "",
+    "mainPicture": "/pictures/Georges Mathieu_1/Mathieu1-1.jpg",
+    "pictures": [
+      "/pictures/Georges Mathieu_1/Mathieu1-1.jpg",
+      "/pictures/Georges Mathieu_1/Mathieu1-2.jpg",
+      "/pictures/Georges Mathieu_1/Mathieu1-3.jpg",
+      "/pictures/Georges Mathieu_1/Mathieu1-4.jpg"
+    ]
+  },
+  {
+    "id":"12",
+    "artist": "Georges Mathieu",
+    "title": "Original 1967 Air France - Italy Poster",
+    "size": "24 ⅞” x 40 ½”",
+    "description": "",
+    "mainPicture": "/pictures/Georges Mathieu_2/Mathieu2-1.jpg",
+    "pictures": [
+      "/pictures/Georges Mathieu_2/Mathieu2-1.jpg",
+      "/pictures/Georges Mathieu_2/Mathieu2-2.jpg",
+      "/pictures/Georges Mathieu_2/Mathieu2-3.jpg",
+      "/pictures/Georges Mathieu_2/Mathieu2-4.jpg"
+    ]
+  },
+  {
+    "id":"13",
+    "artist": "Guy Buffet",
+    "title": "Waiters",
+    "size": "34” x 27 ½”",
+    "description": "Print",
+    "mainPicture": "/pictures/Guy Buffet/BUFFET1.jpg",
+    "pictures": [
+      "/pictures/Guy Buffet/BUFFET1.jpg",
+      "/pictures/Guy Buffet/BUFFET2.jpg",
+      "/pictures/Guy Buffet/BUFFET3.jpg",
+      "/pictures/Guy Buffet/BUFFET4.jpg"
+    ]
+  },
+  {
+    "id":"5",
     "artist": "",
     "title": "",
+    "size": "",
     "description": "",
     "mainPicture": "",
     "pictures": [
@@ -27,10 +197,319 @@
     ]
   },
   {
-    "id":"3",
+    "id":"5",
     "artist": "",
     "title": "",
-    "artType": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "",
+    "pictures": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "",
+    "title": "",
+    "size": "",
+    "description": "",
     "mainPicture": "",
     "pictures": [
       "",
@@ -40,4 +519,3 @@
     ]
   }
 ]
-
