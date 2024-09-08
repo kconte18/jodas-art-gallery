@@ -280,241 +280,200 @@
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
+    "id":"21",
+    "artist": "Lord Frederic Leighton",
+    "title": "Nude and Two Reclining Figures",
+    "size": "15 ¾” x 13 ¾”",
     "description": "",
-    "mainPicture": "",
+    "mainPicture": "/pictures/Lord Frederic Leighton/Leighton1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Lord Frederic Leighton/Leighton1.jpg",
+      "/pictures/Lord Frederic Leighton/Leighton2.jpg",
+      "/pictures/Lord Frederic Leighton/Leighton3.jpg",
+      "/pictures/Lord Frederic Leighton/Leighton4.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
+    "id":"22",
+    "artist": "Marcel Gromaire",
+    "title": "1957 French National Museum Print",
+    "size": "12 ⅞ x 18 ¾”",
     "description": "",
-    "mainPicture": "",
+    "mainPicture": "/pictures/Marcel Gromaire/Gromaire1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Marcel Gromaire/Gromaire1.jpg",
+      "/pictures/Marcel Gromaire/Gromaire2.jpg",
+      "/pictures/Marcel Gromaire/Gromaire3.jpg",
+      "/pictures/Marcel Gromaire/Gromaire4.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
+    "id":"23",
+    "artist": "Michael Zeno Diemer",
+    "title": "Vintage Ships on the Sea",
     "size": "",
-    "description": "",
-    "mainPicture": "",
+    "description": "Signed Bottom Left See Antique Frame ",
+    "mainPicture": "/pictures/Michael Zeno Diemer/Diemer1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Michael Zeno Diemer/Diemer1.jpg",
+      "/pictures/Michael Zeno Diemer/Diemer2.jpg",
+      "/pictures/Michael Zeno Diemer/Diemer3.jpg",
+      "/pictures/Michael Zeno Diemer/Diemer4.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
+    "id":"24",
+    "artist": "P. Etienne",
+    "title": "Signed Canvas Painting",
+    "size": "22 ⅛” x 18 ¼”",
     "description": "",
-    "mainPicture": "",
+    "mainPicture": "/pictures/P. Etienne/Etienne1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/P. Etienne/Etienne1.jpg",
+      "/pictures/P. Etienne/Etienne2.jpg",
+      "/pictures/P. Etienne/Etienne3.jpg",
+      "/pictures/P. Etienne/Etienne4.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
+    "id":"25",
+    "artist": "Ron Dicianni",
+    "title": "Spiritual Warfare",
+    "size": "18 ¼” x 24 ¼”",
     "description": "",
-    "mainPicture": "",
+    "mainPicture": "/pictures/Ron Dicianni/Dicianni1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Ron Dicianni/Dicianni1.jpg",
+      "/pictures/Ron Dicianni/Dicianni2.jpg",
+      "/pictures/Ron Dicianni/Dicianni3.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
-    "description": "",
-    "mainPicture": "",
+    "id":"26",
+    "artist": "Robert Summers",
+    "title": "Mountain Council",
+    "size": "38” x 26”",
+    "description": "Limited Edition 113/1000 with Certificate of Authenticity",
+    "mainPicture": "/pictures/Robert Summers/Summers1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Robert Summers/Summers1.jpg",
+      "/pictures/Robert Summers/Summers2.jpg",
+      "/pictures/Robert Summers/Summers3.jpg",
+      "/pictures/Robert Summers/Summers4.jpg",
+      "/pictures/Robert Summers/Summers5.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
+    "id":"27",
+    "artist": "Sally Caldwell Fisher",
+    "title": "1983 America’s Cup Signed",
+    "size": "23 ⅛” x 33”",
     "description": "",
-    "mainPicture": "",
+    "mainPicture": "/pictures/Sally Caldwell Fisher/Fisher1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Sally Caldwell Fisher/Fisher1.jpg",
+      "/pictures/Sally Caldwell Fisher/Fisher2.jpg",
+      "/pictures/Sally Caldwell Fisher/Fisher3.jpg",
+      "/pictures/Sally Caldwell Fisher/Fisher4.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
+    "id":"28",
+    "artist": "Saul Steinberg",
     "title": "",
     "size": "",
     "description": "",
-    "mainPicture": "",
+    "mainPicture": "/pictures/Saul Steinberg/Steinberg1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Saul Steinberg/Steinberg1.jpg",
+      "/pictures/Saul Steinberg/Steinberg2.jpg",
+      "/pictures/Saul Steinberg/Steinberg3.jpg",
+      "/pictures/Saul Steinberg/Steinberg4.jpg",
+      "/pictures/Saul Steinberg/Steinberg5.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
-    "description": "",
-    "mainPicture": "",
+    "id":"29",
+    "artist": "Stefano",
+    "title": "Abstract Floral",
+    "size": "21” x 25”",
+    "description": "Limited Edition 47/500",
+    "mainPicture": "/pictures/Stefano/Stefano1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Stefano/Stefano1.jpg",
+      "/pictures/Stefano/Stefano2.jpg",
+      "/pictures/Stefano/Stefano3.jpg",
+      "/pictures/Stefano/Stefano4.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
-    "description": "",
-    "mainPicture": "",
+    "id":"30",
+    "artist": "Thomas Blackshear II",
+    "title": "Forgiven",
+    "size": "30 ½” x 22”",
+    "description": "Limited Edition 6511/7500 Signed",
+    "mainPicture": "/pictures/Thomas Blackshear II/Blackshear1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Thomas Blackshear II/Blackshear1.jpg",
+      "/pictures/Thomas Blackshear II/Blackshear2.jpg",
+      "/pictures/Thomas Blackshear II/Blackshear3.jpg",
+      "/pictures/Thomas Blackshear II/Blackshear4.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
+    "id":"31",
+    "artist": "Thomas Gainsborough",
+    "title": "Vintage Blue Boy",
+    "size": "16 ½” x 20 ¼”",
     "description": "",
-    "mainPicture": "",
+    "mainPicture": "/pictures/Thomas Gainsborough/Gainsborough1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Thomas Gainsborough/Gainsborough1.jpg",
+      "/pictures/Thomas Gainsborough/Gainsborough2.jpg",
+      "/pictures/Thomas Gainsborough/Gainsborough3.jpg",
+      "/pictures/Thomas Gainsborough/Gainsborough4.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
-    "description": "",
-    "mainPicture": "",
+    "id":"32",
+    "artist": "Unknown",
+    "title": "Asian Street Scene",
+    "size": "21 ¼” x 17 ¼”",
+    "description": "Canvas Painting- Signed",
+    "mainPicture": "/pictures/Unknown/Unknown1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Unknown/Unknown1.jpg",
+      "/pictures/Unknown/Unknown2.jpg",
+      "/pictures/Unknown/Unknown3.jpg",
+      "/pictures/Unknown/Unknown4.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
+    "id":"33",
+    "artist": "Vernon Wooten",
+    "title": "Signed LImited Edition 291/2000 Print",
+    "size": "34 ½” x 29 ½”",
     "description": "",
-    "mainPicture": "",
+    "mainPicture": "/pictures/Vernon Wooten/Wooten1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/Vernon Wooten/Wooten1.jpg",
+      "/pictures/Vernon Wooten/Wooten2.jpg",
+      "/pictures/Vernon Wooten/Wooten3.jpg",
+      "/pictures/Vernon Wooten/Wooten4.jpg"
     ]
   },
   {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
-    "description": "",
-    "mainPicture": "",
+    "id":"34",
+    "artist": "William Blackman",
+    "title": "Countryside",
+    "size": "25 ⅛” x 21 ¼”",
+    "description": "Signed Limited Edition Print 35/200",
+    "mainPicture": "/pictures/William Blackman/Blackman1.jpg",
     "pictures": [
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
-    "description": "",
-    "mainPicture": "",
-    "pictures": [
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
-    "description": "",
-    "mainPicture": "",
-    "pictures": [
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "id":"5",
-    "artist": "",
-    "title": "",
-    "size": "",
-    "description": "",
-    "mainPicture": "",
-    "pictures": [
-      "",
-      "",
-      "",
-      ""
+      "/pictures/William Blackman/Blackman1.jpg",
+      "/pictures/William Blackman/Blackman2.jpg",
+      "/pictures/William Blackman/Blackman3.jpg",
+      "/pictures/William Blackman/Blackman4.jpg"
     ]
   }
 ]
