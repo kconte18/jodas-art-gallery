@@ -1,0 +1,479 @@
+[
+  {
+    "id": "1",
+    "artist": "Antonio",
+    "title": "Beautiful Canvas Painting",
+    "size": "36” x 24”",
+    "description": "",
+    "mainPicture": "/pictures/Antonio/Antonio1.jpg",
+    "pictures": [
+      "/pictures/Antonio/Antonio1.jpg",
+      "/pictures/Antonio/Antonio2.jpg",
+      "/pictures/Antonio/Antonio3.jpg",
+      "/pictures/Antonio/Antonio4.jpg"
+    ]
+  },
+  {
+    "id":"2",
+    "artist": "Arthur Becher",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "/pictures/Arthur Becher/Becher1.jpeg",
+    "pictures": [
+      "/pictures/Arthur Becher/Becher1.jpeg",
+      "/pictures/Arthur Becher/Becher2.jpeg",
+      "/pictures/Arthur Becher/Becher3.jpeg",
+      "/pictures/Arthur Becher/Becher4.jpeg"
+    ]
+  },
+  {
+    "id":"3",
+    "artist": "Bernard Martin",
+    "title": "Duck's Landing",
+    "size": "",
+    "description": "Canvas Painting",
+    "mainPicture": "/pictures/Bernard Martin/BMARTIN1.jpeg",
+    "pictures": [
+      "/pictures/Bernard Martin/BMARTIN1.jpeg",
+      "/pictures/Bernard Martin/BMARTIN2.jpeg",
+      "/pictures/Bernard Martin/BMARTIN3.jpeg",
+      "/pictures/Bernard Martin/BMARTIN4.jpeg"
+    ]
+  },
+  {
+    "id":"4",
+    "artist": "Carle Vanloo",
+    "title": "Two Vintage Prints Fessard Engraving",
+    "size": "",
+    "description": "",
+    "mainPicture": "/pictures/Carle Vanloo/Vanloo1.jpeg",
+    "pictures": [
+      "/pictures/Carle Vanloo/Vanloo1.jpeg",
+      "/pictures/Carle Vanloo/Vanloo2.jpg",
+      "/pictures/Carle Vanloo/Vanloo3.jpg",
+      "/pictures/Carle Vanloo/Vanloo4.jpg",
+      "/pictures/Carle Vanloo/Vanloo5.jpg"
+    ]
+  },
+  {
+    "id":"5",
+    "artist": "E. Quotskuyva",
+    "title": "“Signed Hopi Painting”",
+    "size": "",
+    "description": "Rare",
+    "mainPicture": "/pictures/E. Quotskuyva/QUOTSKUYVA1.jpg",
+    "pictures": [
+      "/pictures/E. Quotskuyva/QUOTSKUYVA1.jpg",
+      "/pictures/E. Quotskuyva/QUOTSKUYVA2.jpg",
+      "/pictures/E. Quotskuyva/QUOTSKUYVA3.jpg",
+      "/pictures/E. Quotskuyva/QUOTSKUYVA4.jpg"
+    ]
+  },
+  {
+    "id":"6",
+    "artist": "E. Savage",
+    "title": "The Washington Family",
+    "size": "17 ¼” x 13 ½” ",
+    "description": "Vintage and Rare",
+    "mainPicture": "/pictures/E. Savage/SAVAGE1.jpg",
+    "pictures": [
+      "/pictures/E. Savage/SAVAGE1.jpg",
+      "/pictures/E. Savage/SAVAGE2.jpg",
+      "/pictures/E. Savage/SAVAGE3.jpg",
+      "/pictures/E. Savage/SAVAGE4.jpg",
+      "/pictures/E. Savage/SAVAGE5.jpg"
+    ]
+  },
+  {
+    "id":"7",
+    "artist": "Ertè",
+    "title": "Symphony in Black",
+    "size": "",
+    "description": "Vintage 1980 Ertè, Silver Foil Serigraph. This Serigraph has the autograph",
+    "mainPicture": "/pictures/Erte/ERTE1.jpg",
+    "pictures": [
+      "/pictures/Erte/ERTE1.jpg",
+      "/pictures/Erte/ERTE2.jpg",
+      "/pictures/Erte/ERTE3.jpg",
+      "/pictures/Erte/ERTE4.jpg"
+    ]
+  },
+  {
+    "id":"8",
+    "artist": "Franklin Saye",
+    "title": "Reflections",
+    "size": "31 ½” x 24 ¾”",
+    "description": "Signed Limited Edition 30/500",
+    "mainPicture": "/pictures/Franklin Saye/SAYE1.jpg",
+    "pictures": [
+      "/pictures/Franklin Saye/SAYE1.jpg",
+      "/pictures/Franklin Saye/SAYE2.jpg",
+      "/pictures/Franklin Saye/SAYE3.jpg",
+      "/pictures/Franklin Saye/SAYE4.jpg"
+    ]
+  },
+  {
+    "id":"9",
+    "artist": "G. Harvey",
+    "title": "In the Land of the Tetons",
+    "size": "38” x 26”",
+    "description": "Limited Edition 1358/1950 with Certificate of Authenticity",
+    "mainPicture": "/pictures/G. Harvey/HARVEY1.jpg",
+    "pictures": [
+      "/pictures/G. Harvey/HARVEY1.jpg",
+      "/pictures/G. Harvey/HARVEY2.jpg",
+      "/pictures/G. Harvey/HARVEY3.jpg",
+      "/pictures/G. Harvey/HARVEY4.jpg"
+    ]
+  },
+  {
+    "id":"10",
+    "artist": "G. LeLong",
+    "title": "Paris - La Tour Eiffel",
+    "size": "14 ⅞” x 18 ⅛”",
+    "description": "Lithograph Print",
+    "mainPicture": "/pictures/G. LeLong/LELONG1.jpg",
+    "pictures": [
+      "/pictures/G. LeLong/LELONG1.jpg",
+      "/pictures/G. LeLong/LELONG2.jpg",
+      "/pictures/G. LeLong/LELONG3.jpg"
+    ]
+  },
+  {
+    "id":"11",
+    "artist": "Georges Mathieu",
+    "title": "Original 1967 Air France - France Poster",
+    "size": "24 ⅞” x 40 ½”",
+    "description": "",
+    "mainPicture": "/pictures/Georges Mathieu_1/Mathieu1-1.jpg",
+    "pictures": [
+      "/pictures/Georges Mathieu_1/Mathieu1-1.jpg",
+      "/pictures/Georges Mathieu_1/Mathieu1-2.jpg",
+      "/pictures/Georges Mathieu_1/Mathieu1-3.jpg",
+      "/pictures/Georges Mathieu_1/Mathieu1-4.jpg"
+    ]
+  },
+  {
+    "id":"12",
+    "artist": "Georges Mathieu",
+    "title": "Original 1967 Air France - Italy Poster",
+    "size": "24 ⅞” x 40 ½”",
+    "description": "",
+    "mainPicture": "/pictures/Georges Mathieu_2/Mathieu2-1.jpg",
+    "pictures": [
+      "/pictures/Georges Mathieu_2/Mathieu2-1.jpg",
+      "/pictures/Georges Mathieu_2/Mathieu2-2.jpg",
+      "/pictures/Georges Mathieu_2/Mathieu2-3.jpg",
+      "/pictures/Georges Mathieu_2/Mathieu2-4.jpg"
+    ]
+  },
+  {
+    "id":"13",
+    "artist": "Guy Buffet",
+    "title": "Waiters",
+    "size": "34” x 27 ½”",
+    "description": "Print",
+    "mainPicture": "/pictures/Guy Buffet/BUFFET1.jpg",
+    "pictures": [
+      "/pictures/Guy Buffet/BUFFET1.jpg",
+      "/pictures/Guy Buffet/BUFFET2.jpg",
+      "/pictures/Guy Buffet/BUFFET3.jpg",
+      "/pictures/Guy Buffet/BUFFET4.jpg"
+    ]
+  },
+  {
+    "id":"14",
+    "artist": "Henri LeRoy",
+    "title": "Spirited Horses",
+    "size": "23 ¼” x 19 ½”",
+    "description": "Antique Black and White Horses with Vintage Frame Dated 1916",
+    "mainPicture": "/pictures/Henri LeRoy/LeRoy1.jpg",
+    "pictures": [
+      "/pictures/Henri LeRoy/LeRoy1.jpg",
+      "/pictures/Henri LeRoy/LeRoy2.jpg",
+      "/pictures/Henri LeRoy/LeRoy3.jpg"
+    ]
+  },
+  {
+    "id":"15",
+    "artist": "Henry Callender",
+    "title": "To the Society of Goffers at Blackheath",
+    "size": "16 ¼” x 21 ¼”",
+    "description": "Engraved William Ward",
+    "mainPicture": "/pictures/Henry Callender/Callender1.jpg",
+    "pictures": [
+      "/pictures/Henry Callender/Callender1.jpg",
+      "/pictures/Henry Callender/Callender2.jpg",
+      "/pictures/Henry Callender/Callender3.jpg"
+    ]
+  },
+  {
+    "id":"16",
+    "artist": "Jean Francois Millet",
+    "title": "The Angelus Ringing",
+    "size": "28 ½” x 24 ½”",
+    "description": "Oil on Canvas",
+    "mainPicture": "/pictures/Jean Francois Millet/Millet1.jpg",
+    "pictures": [
+      "/pictures/Jean Francois Millet/Millet1.jpg",
+      "/pictures/Jean Francois Millet/Millet2.jpg",
+      "/pictures/Jean Francois Millet/Millet3.jpg",
+      "/pictures/Jean Francois Millet/Millet4.jpg"
+    ]
+  },
+  {
+    "id":"17",
+    "artist": "JLG Ferris",
+    "title": "General’s Shaking Hands",
+    "size": "17” x 13”",
+    "description": "Vintage Print with George Washington Photo on the wall",
+    "mainPicture": "/pictures/JLG Ferris/Ferris1.jpg",
+    "pictures": [
+      "/pictures/JLG Ferris/Ferris1.jpg",
+      "/pictures/JLG Ferris/Ferris2.jpg",
+      "/pictures/JLG Ferris/Ferris3.jpg",
+      "/pictures/JLG Ferris/Ferris4.jpg"
+    ]
+  },
+  {
+    "id":"18",
+    "artist": "John Gould",
+    "title": "Scops Zorca",
+    "size": "15 ½” x 23 ¼”",
+    "description": "Lithograph with Original Hand-Coloring",
+    "mainPicture": "/pictures/John Gould/Gould1.jpg",
+    "pictures": [
+      "/pictures/John Gould/Gould1.jpg",
+      "/pictures/John Gould/Gould2.jpg",
+      "/pictures/John Gould/Gould3.jpg",
+      "/pictures/John Gould/Gould4.jpg"
+    ]
+  },
+  {
+    "id":"19",
+    "artist": "John Powell",
+    "title": "Signed Serigraph Wicker Baskets Limited Edition 252/300",
+    "size": "41 ½” x 34 ¼”",
+    "description": "",
+    "mainPicture": "/pictures/John Powell/Powell1.jpg",
+    "pictures": [
+      "/pictures/John Powell/Powell1.jpg",
+      "/pictures/John Powell/Powell2.jpg",
+      "/pictures/John Powell/Powell3.jpg",
+      "/pictures/John Powell/Powell4.jpg",
+      "/pictures/John Powell/Powell5.jpg"
+    ]
+  },
+  {
+    "id":"20",
+    "artist": "Le Blanc",
+    "title": "Signed Limited Edition 915/950 Print",
+    "size": "31” x 27”",
+    "description": "",
+    "mainPicture": "/pictures/Le Blanc/Blanc1.jpg",
+    "pictures": [
+      "/pictures/Le Blanc/Blanc1.jpg",
+      "/pictures/Le Blanc/Blanc2.jpg",
+      "/pictures/Le Blanc/Blanc3.jpg",
+      "/pictures/Le Blanc/Blanc4.jpg"
+    ]
+  },
+  {
+    "id":"21",
+    "artist": "Lord Frederic Leighton",
+    "title": "Nude and Two Reclining Figures",
+    "size": "15 ¾” x 13 ¾”",
+    "description": "",
+    "mainPicture": "/pictures/Lord Frederic Leighton/Leighton1.jpg",
+    "pictures": [
+      "/pictures/Lord Frederic Leighton/Leighton1.jpg",
+      "/pictures/Lord Frederic Leighton/Leighton2.jpg",
+      "/pictures/Lord Frederic Leighton/Leighton3.jpg",
+      "/pictures/Lord Frederic Leighton/Leighton4.jpg"
+    ]
+  },
+  {
+    "id":"22",
+    "artist": "Marcel Gromaire",
+    "title": "1957 French National Museum Print",
+    "size": "12 ⅞ x 18 ¾”",
+    "description": "",
+    "mainPicture": "/pictures/Marcel Gromaire/Gromaire1.jpg",
+    "pictures": [
+      "/pictures/Marcel Gromaire/Gromaire1.jpg",
+      "/pictures/Marcel Gromaire/Gromaire2.jpg",
+      "/pictures/Marcel Gromaire/Gromaire3.jpg",
+      "/pictures/Marcel Gromaire/Gromaire4.jpg"
+    ]
+  },
+  {
+    "id":"23",
+    "artist": "Michael Zeno Diemer",
+    "title": "Vintage Ships on the Sea",
+    "size": "",
+    "description": "Signed Bottom Left See Antique Frame ",
+    "mainPicture": "/pictures/Michael Zeno Diemer/Diemer1.jpg",
+    "pictures": [
+      "/pictures/Michael Zeno Diemer/Diemer1.jpg",
+      "/pictures/Michael Zeno Diemer/Diemer2.jpg",
+      "/pictures/Michael Zeno Diemer/Diemer3.jpg",
+      "/pictures/Michael Zeno Diemer/Diemer4.jpg"
+    ]
+  },
+  {
+    "id":"24",
+    "artist": "P. Etienne",
+    "title": "Signed Canvas Painting",
+    "size": "22 ⅛” x 18 ¼”",
+    "description": "",
+    "mainPicture": "/pictures/P. Etienne/Etienne1.jpg",
+    "pictures": [
+      "/pictures/P. Etienne/Etienne1.jpg",
+      "/pictures/P. Etienne/Etienne2.jpg",
+      "/pictures/P. Etienne/Etienne3.jpg",
+      "/pictures/P. Etienne/Etienne4.jpg"
+    ]
+  },
+  {
+    "id":"25",
+    "artist": "Ron Dicianni",
+    "title": "Spiritual Warfare",
+    "size": "18 ¼” x 24 ¼”",
+    "description": "",
+    "mainPicture": "/pictures/Ron Dicianni/Dicianni1.jpg",
+    "pictures": [
+      "/pictures/Ron Dicianni/Dicianni1.jpg",
+      "/pictures/Ron Dicianni/Dicianni2.jpg",
+      "/pictures/Ron Dicianni/Dicianni3.jpg"
+    ]
+  },
+  {
+    "id":"26",
+    "artist": "Robert Summers",
+    "title": "Mountain Council",
+    "size": "38” x 26”",
+    "description": "Limited Edition 113/1000 with Certificate of Authenticity",
+    "mainPicture": "/pictures/Robert Summers/Summers1.jpg",
+    "pictures": [
+      "/pictures/Robert Summers/Summers1.jpg",
+      "/pictures/Robert Summers/Summers2.jpg",
+      "/pictures/Robert Summers/Summers3.jpg",
+      "/pictures/Robert Summers/Summers4.jpg",
+      "/pictures/Robert Summers/Summers5.jpg"
+    ]
+  },
+  {
+    "id":"27",
+    "artist": "Sally Caldwell Fisher",
+    "title": "1983 America’s Cup Signed",
+    "size": "23 ⅛” x 33”",
+    "description": "",
+    "mainPicture": "/pictures/Sally Caldwell Fisher/Fisher1.jpg",
+    "pictures": [
+      "/pictures/Sally Caldwell Fisher/Fisher1.jpg",
+      "/pictures/Sally Caldwell Fisher/Fisher2.jpg",
+      "/pictures/Sally Caldwell Fisher/Fisher3.jpg",
+      "/pictures/Sally Caldwell Fisher/Fisher4.jpg"
+    ]
+  },
+  {
+    "id":"28",
+    "artist": "Saul Steinberg",
+    "title": "",
+    "size": "",
+    "description": "",
+    "mainPicture": "/pictures/Saul Steinberg/Steinberg1.jpg",
+    "pictures": [
+      "/pictures/Saul Steinberg/Steinberg1.jpg",
+      "/pictures/Saul Steinberg/Steinberg2.jpg",
+      "/pictures/Saul Steinberg/Steinberg3.jpg",
+      "/pictures/Saul Steinberg/Steinberg4.jpg",
+      "/pictures/Saul Steinberg/Steinberg5.jpg"
+    ]
+  },
+  {
+    "id":"29",
+    "artist": "Stefano",
+    "title": "Abstract Floral",
+    "size": "21” x 25”",
+    "description": "Limited Edition 47/500",
+    "mainPicture": "/pictures/Stefano/Stefano1.jpg",
+    "pictures": [
+      "/pictures/Stefano/Stefano1.jpg",
+      "/pictures/Stefano/Stefano2.jpg",
+      "/pictures/Stefano/Stefano3.jpg",
+      "/pictures/Stefano/Stefano4.jpg"
+    ]
+  },
+  {
+    "id":"30",
+    "artist": "Thomas Blackshear II",
+    "title": "Forgiven",
+    "size": "30 ½” x 22”",
+    "description": "Limited Edition 6511/7500 Signed",
+    "mainPicture": "/pictures/Thomas Blackshear II/Blackshear1.jpg",
+    "pictures": [
+      "/pictures/Thomas Blackshear II/Blackshear1.jpg",
+      "/pictures/Thomas Blackshear II/Blackshear2.jpg",
+      "/pictures/Thomas Blackshear II/Blackshear3.jpg",
+      "/pictures/Thomas Blackshear II/Blackshear4.jpg"
+    ]
+  },
+  {
+    "id":"31",
+    "artist": "Thomas Gainsborough",
+    "title": "Vintage Blue Boy",
+    "size": "16 ½” x 20 ¼”",
+    "description": "",
+    "mainPicture": "/pictures/Thomas Gainsborough/Gainsborough1.jpg",
+    "pictures": [
+      "/pictures/Thomas Gainsborough/Gainsborough1.jpg",
+      "/pictures/Thomas Gainsborough/Gainsborough2.jpg",
+      "/pictures/Thomas Gainsborough/Gainsborough3.jpg",
+      "/pictures/Thomas Gainsborough/Gainsborough4.jpg"
+    ]
+  },
+  {
+    "id":"32",
+    "artist": "Unknown",
+    "title": "Asian Street Scene",
+    "size": "21 ¼” x 17 ¼”",
+    "description": "Canvas Painting- Signed",
+    "mainPicture": "/pictures/Unknown/Unknown1.jpg",
+    "pictures": [
+      "/pictures/Unknown/Unknown1.jpg",
+      "/pictures/Unknown/Unknown2.jpg",
+      "/pictures/Unknown/Unknown3.jpg",
+      "/pictures/Unknown/Unknown4.jpg"
+    ]
+  },
+  {
+    "id":"33",
+    "artist": "Vernon Wooten",
+    "title": "Signed LImited Edition 291/2000 Print",
+    "size": "34 ½” x 29 ½”",
+    "description": "",
+    "mainPicture": "/pictures/Vernon Wooten/Wooten1.jpg",
+    "pictures": [
+      "/pictures/Vernon Wooten/Wooten1.jpg",
+      "/pictures/Vernon Wooten/Wooten2.jpg",
+      "/pictures/Vernon Wooten/Wooten3.jpg",
+      "/pictures/Vernon Wooten/Wooten4.jpg"
+    ]
+  },
+  {
+    "id":"34",
+    "artist": "William Blackman",
+    "title": "Countryside",
+    "size": "25 ⅛” x 21 ¼”",
+    "description": "Signed Limited Edition Print 35/200",
+    "mainPicture": "/pictures/William Blackman/Blackman1.jpg",
+    "pictures": [
+      "/pictures/William Blackman/Blackman1.jpg",
+      "/pictures/William Blackman/Blackman2.jpg",
+      "/pictures/William Blackman/Blackman3.jpg",
+      "/pictures/William Blackman/Blackman4.jpg"
+    ]
+  }
+]

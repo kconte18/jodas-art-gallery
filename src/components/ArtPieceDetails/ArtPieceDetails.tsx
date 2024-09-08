@@ -17,8 +17,9 @@ export default function ArtPieceDetails(props: {onClose: any, artPiece: ArtPiece
             {/* carrousel for multiple pictures */}
             <Carousel pictures={props.artPiece.pictures}/>
             <h1>{props.artPiece.artist}</h1>
-            <h2>{props.artPiece.artType}</h2>
             <h2>{props.artPiece.title}</h2>
+            <h2>{props.artPiece.size}</h2>
+            <p>{props.artPiece.description}</p>
         </Modal>
     )
 }
